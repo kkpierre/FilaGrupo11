@@ -1,0 +1,8 @@
+C:\Users\Pichau\source\repos\Hospital\fila\bin\Debug\fila.exe.config
+C:\Users\Pichau\source\repos\Hospital\fila\bin\Debug\fila.exe
+C:\Users\Pichau\source\repos\Hospital\fila\bin\Debug\fila.pdb
+C:\Users\Pichau\source\repos\Hospital\fila\obj\Debug\fila.csproj.AssemblyReference.cache
+C:\Users\Pichau\source\repos\Hospital\fila\obj\Debug\fila.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\source\repos\Hospital\fila\obj\Debug\fila.exe
+C:\Users\Pichau\source\repos\Hospital\fila\obj\Debug\fila.pdb
+C:\Users\Pichau\source\repos\Hospital\fila\obj\Debug\fila.exe.config
